@@ -39,4 +39,4 @@ pnpm dev
 
 Licensed under the MIT license, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/nxjt/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/nxjt/blob/main/LICENSE) for more information.

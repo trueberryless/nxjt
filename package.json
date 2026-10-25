@@ -13,11 +13,11 @@
   ],
   "homepage": "https://nxjt.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/nxjt/issues"
+    "url": "https://github.com/trueberryless/nxjt/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/nxjt.git"
+    "url": "https://github.com/trueberryless/nxjt.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
