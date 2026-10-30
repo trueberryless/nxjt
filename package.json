@@ -38,22 +38,22 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@astrojs/netlify": "^8.2.6",
-    "@astrojs/node": "^11.1.6",
+    "@astrojs/netlify": "^8.2.9",
+    "@astrojs/node": "^11.1.7",
     "@unocss/reset": "66.10.5",
-    "astro": "7.3.5"
+    "astro": "7.3.8"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.10",
     "@axe-core/playwright": "^4.13.0",
-    "@playwright/test": "^1.63.0",
+    "@playwright/test": "^1.64.0",
     "@trivago/prettier-plugin-sort-imports": "6.0.2",
-    "@types/node": "^26.6.3",
+    "@types/node": "^26.6.5",
     "@vitest/coverage-v8": "^5.0.3",
-    "knip": "^6.39.0",
-    "oxlint": "^1.86.0",
+    "knip": "^6.41.0",
+    "oxlint": "^1.87.0",
     "prettier": "3.9.9",
-    "prettier-plugin-astro": "1.1.0",
+    "prettier-plugin-astro": "1.1.1",
     "typescript": "^6.0.3",
     "vitest": "^5.0.3"
   },
