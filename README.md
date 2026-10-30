@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/trueberryless-org/nxjt/actions/workflows/ci.yaml">
-    <img alt="CI Status" src="https://github.com/trueberryless-org/nxjt/actions/workflows/ci.yaml/badge.svg" />
+  <a href="https://github.com/trueberryless/nxjt/actions/workflows/ci.yaml">
+    <img alt="CI Status" src="https://github.com/trueberryless/nxjt/actions/workflows/ci.yaml/badge.svg" />
   </a>
-  <a href="https://github.com/trueberryless-org/nxjt/blob/main/LICENSE">
-    <img alt="License" src="https://badgen.net/github/license/trueberryless-org/nxjt" />
+  <a href="https://github.com/trueberryless/nxjt/blob/main/LICENSE">
+    <img alt="License" src="https://badgen.net/github/license/trueberryless/nxjt" />
   </a>
   <br />
 </div>
